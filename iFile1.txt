@@ -1,0 +1,4 @@
+Day 2 Git Assignment
+This is the first file created using Vim.
+Learning Git file operations.
+

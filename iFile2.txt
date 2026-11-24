@@ -1,0 +1,3 @@
+Day 2 Git Assignment
+This is the second file created using Vim.
+Practising Git and GitHub.
