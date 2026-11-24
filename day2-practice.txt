@@ -1,0 +1,3 @@
+Day 2 - Git and GitHub Practice
+My first Git practice file.
+Learning Git commands in Ubuntu 22.04.
